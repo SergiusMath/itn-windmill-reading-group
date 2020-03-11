@@ -1,0 +1,83 @@
+\documentclass{article}
+\usepackage[ a4paper, left = 1.0cm, right = 1.0cm, top = 1.0cm, bottom = 1.0cm ]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage[UKenglish]{babel}
+\pagenumbering{gobble} % remove page numbers
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{0.7em}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    linkbordercolor = {white},
+    citecolor = {red},
+    urlcolor = {blue},
+}
+
+\usepackage{biblatex}
+\addbibresource{example.bib}
+
+
+% --------------------------------------------------------------------------------
+% Here You can add extra LaTeX packages, if You like.
+% \usepackage{something}
+
+
+% --------------------------------------------------------------------------------
+% Your report starts here
+\begin{document}\fontsize{10}{12}\rm
+
+% Report information
+\large \textbf{Reader:}             \textcolor{blue}{John Doe}
+
+\large \textbf{Organisation:}       \textcolor{blue}{University of ML, R\&D lab of stuff} 
+
+\large \textbf{Contact:}
+    \href{
+        mailto:
+        jhon.doe.ml@lab-univ.com
+    }{
+        jhon.doe.ml@lab-univ.com
+        }
+
+\large \textbf{Analysis of:} Title(s) of scientific product(s) (paper, monograph, book, dataset, software library)
+
+\large \textbf{Abstract or Summary of chosen item:}
+
+\textcolor{red}{\textit{Here You can place Your short summary of chosen paper or official abstract (e.g. from ArXiv). If the latter is too large, then insert a short copy of it.  \(\Downarrow\)}}
+
+A comprehensive and self-contained introduction to Gaussian processes, which provide a principled, practical, probabilistic approach to learning in kernel machines.
+
+\large \textbf{Analysis:}
+
+\textcolor{red}{\textit{You should put analysis of a chosen paper here. Keep in mind that it must not exceed 2 pages! \(\Downarrow\)}}
+
+Gaussian processes (GPs) provide a principled, practical, probabilistic approach to learning in kernel machines. GPs have received increased attention in the machine-learning community over the past decade, and this book provides a long-needed systematic and unified treatment of theoretical and practical aspects of GPs in machine learning. The treatment is comprehensive and self-contained, targeted at researchers and students in machine learning and applied statistics. The book deals with the supervised-learning problem for both regression and classification, and includes detailed algorithms. A wide variety of covariance (kernel) functions are presented and their properties discussed. Model selection is discussed both from a Bayesian and a classical perspective. Many connections to other well-known techniques from machine learning and statistics are discussed, including support-vector machines, neural networks, splines, \cite{rasmussenGaussianProcessesMachine2006} \dots
+
+One issue with Gaussian process prediction methods is that their basic complexity is \(\mathcal{O}\left(n^{3}\right) \) \dots
+
+A discrete-time autoregressive (AR) process of order p can be written as
+\begin{gather}
+    X_{t}=\sum_{k=1}^{p} a_{k} X_{t-k}+b_{0} Z_{t}
+\end{gather}
+
+\dots For sufficiently well-behaved functions on R we have
+\begin{gather}
+    f(x)=\int_{-\infty}^{\infty} \tilde{f}(s) e^{2 \pi i s x} d s, \quad \tilde{f}(s)=\int_{-\infty}^{\infty} f(x) e^{-2 \pi i s x} d x
+\end{gather}
+
+\dots Few more equations \ref{eqn:some_math}
+\begin{gather}\label{eqn:some_math}
+    \sum_{m=0}^{M}(-1)^{m} a_{m} \nabla^{2 m} G=\delta\left(\mathbf{x}-\mathbf{x}^{\prime}\right)
+\end{gather}
+
+\large \textbf{References:}
+
+\printbibliography[heading=none]
+
+\end{document}

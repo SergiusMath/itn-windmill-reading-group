@@ -1,0 +1,74 @@
+\documentclass[10pt,a4paper,twoside]{mins}
+\usepackage{enumitem}
+\usepackage{booktabs}
+
+% Leave this line unchanged !!!
+\setcommittee{ITN WIndMill - Reading group}
+
+% In order to first names, e.g. Albert, Chris, David, Shawn ...
+\setmembers{
+	\role{Jhon Doe}{ESR 1},
+	\role{Jhon Doe}{ESR 2},
+	\role{Jhon Doe}{ESR 3}
+}
+
+% Keep date in the same format for consistency !!!
+\setdate{ dd.mm.yyyy }
+
+% If no-one is absent, leave blank, and it will be dropped
+\absent{
+    \role{Jhon Doe}{ESR 111},
+    \role{Jhon Doe}{ESR 222}
+}                   
+
+% If there are no guests, leave blank and it will be dropped
+\alsopresent{
+    EU Commissioner
+    PhD supervisor 135
+    } 
+
+\begin{document}
+
+\begin{minutes}
+
+    \begin{center}
+        \emph{Notes:}
+    \end{center}
+    
+    \begin{notes}
+        \item Business Item 1
+
+        Some details about something
+
+        \item Business Item 2
+
+        Some details about something
+
+        \item Et Cetera
+
+    \end{notes}
+
+    \begin{center}
+        \emph{Announcements:}
+    \end{center}
+
+    \begin{notes}
+        \item Business Item 1
+    
+        Some details about something
+    
+        \item Business Item 2
+    
+        Some details about something
+    
+        \item Et Cetera
+    
+    \end{notes}
+
+\end{minutes}
+
+\bigskip
+\bigskip
+\nextmeeting{ mm.dd.yyyy | HH:mm }
+
+\end{document}
