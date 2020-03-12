@@ -20,8 +20,9 @@
 2. From Learning to Meta-Learning: Reduced Training Overhead and Complexity for Communication Systems
 
 ## Multiagent and Federated Learning
-1. Decentralized Federated Learning via SGD over Wireless D2D Networks
-2. Cooperative Learning via Federated Distillation over Fading Channels
+1. Federated Learning: Strategies for Improving Communication Efficiency (https://research.google/pubs/pub45648/)
+2. Decentralized Federated Learning via SGD over Wireless D2D Networks
+3. Cooperative Learning via Federated Distillation over Fading Channels
 
 ## ML in Communication Systems
 1. Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning, (https://arxiv.org/pdf/2002.062150) 
