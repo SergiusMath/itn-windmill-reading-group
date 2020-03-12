@@ -20,5 +20,7 @@
 ## Multiagent and Federated Learning
 
 ## ML in Communication Systems
+https://arxiv.org/pdf/2002.06215  Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning
+
 
 
