@@ -20,7 +20,7 @@
 ## Multiagent and Federated Learning
 
 ## ML in Communication Systems
-https://arxiv.org/pdf/2002.06215  Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning
-
-
+1. Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning, https://arxiv.org/pdf/2002.06215  
+2. Deep multiuser reinforcement learning for distributed dynamic spectrum access
+3. Fast Q-learning for improved finite length performance of irregular repitition slotted ALOHA
 
