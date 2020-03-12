@@ -16,11 +16,14 @@
 ## Semi-supervised Learning
 
 ## Meta-Learning
+1. End-to-End Fast Training of Communication Links Without a Channel Model via Online Meta-Learning (https://arxiv.org/pdf/2003.01479)
 
 ## Multiagent and Federated Learning
+1. Decentralized Federated Learning via SGD over Wireless D2D Networks
+2. Cooperative Learning via Federated Distillation over Fading Channels
 
 ## ML in Communication Systems
-1. Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning, https://arxiv.org/pdf/2002.06215  
+1. Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning, (https://arxiv.org/pdf/2002.062150) 
 2. Deep multiuser reinforcement learning for distributed dynamic spectrum access
 3. Fast Q-learning for improved finite length performance of irregular repitition slotted ALOHA
 
