@@ -17,6 +17,7 @@
 
 ## Meta-Learning
 1. End-to-End Fast Training of Communication Links Without a Channel Model via Online Meta-Learning (https://arxiv.org/pdf/2003.01479)
+2. From Learning to Meta-Learning: Reduced Training Overhead and Complexity for Communication Systems
 
 ## Multiagent and Federated Learning
 1. Decentralized Federated Learning via SGD over Wireless D2D Networks
