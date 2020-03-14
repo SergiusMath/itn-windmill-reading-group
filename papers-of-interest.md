@@ -1,31 +1,49 @@
 # List of researchers/resources to review:
 
 ## Statistical Machine Learning, DNN Theory, Convergence, and Optimization
-1. item 1 name (e.g. paper A)
-2. item 2 name (e.g. dataset Z)
-...
+1. Arora, Sanjeev, et al. "Fine-grained analysis of optimization and generalization for overparameterized two-layer neural networks." arXiv preprint arXiv:1901.08584 (2019).
+2. Lee, Jaehoon, et al. "Deep neural networks as gaussian processes." arXiv preprint arXiv:1711.00165 (2017).
+3. Arora, Sanjeev, Nadav Cohen, and Elad Hazan. "On the optimization of deep networks: Implicit acceleration by overparameterization." arXiv preprint arXiv:1802.06509 (2018).
+4. Nagarajan, Vaishnavh, and J. Zico Kolter. "Uniform convergence may be unable to explain generalization in deep learning." Advances in Neural Information Processing Systems. 2019.
+5. Bartlett, Peter L., et al. "Nearly-tight VC-dimension and Pseudodimension Bounds for Piecewise Linear Neural Networks." Journal of Machine Learning Research 20.63 (2019): 1-17.
+6. Du, Simon S., et al. "Gradient descent finds global minima of deep neural networks." arXiv preprint arXiv:1811.03804 (2018).
+7. Neyshabur, B., Li, Z., Bhojanapalli, S., LeCun, Y., andSrebro, N. The role of over-parametrization in generalization of neural networks. In International Conference on Learning Representations (ICLR), 2019.
+8. Zhang, C., Bengio, S., Hardt, M., Recht, B., and Vinyals, O. Understanding deep learning requires rethinking generalization. International Conference on Learning Represen
+tations (ICLR), 2017
+9. Brutzkus, Alon, et al. "Sgd learns over-parameterized networks that provably generalize on linearly separable data." arXiv preprint arXiv:1710.10174 (2017).
+10. Arora, Sanjeev, et al. "Stronger generalization bounds for deep nets via a compression approach." arXiv preprint arXiv:1802.05296 (2018).
+11. Bartlett, Peter L., Dylan J. Foster, and Matus J. Telgarsky. "Spectrally-normalized margin bounds for neural networks." Advances in Neural Information Processing Systems. 2017.
+12. Belkin, M., Ma, S., and Mandal, S. To understand deep learning we need to understand kernel learning. arXiv preprint arXiv:1802.01396, 2018.
+13. Daniely, A. SGD learns the conjugate kernel class of the network. arXiv preprint arXiv:1702.08503, 2017
 
 ## Supervised Learning
-1. item 1 name (e.g. paper V)
-2. item 2 name (e.g. dataset K)
-...
 
 ## Unsupervised Learning
-...
+1. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
+2.Rezende, D. J., Mohamed, S., and Wierstra, D. Stochastic backpropagation and approximate inference in deep generative models. International Conference on Machine Learning, pp. 1278–1286, 2014.
+3. Burda, Yuri, Roger Grosse, and Ruslan Salakhutdinov. "Importance weighted autoencoders." arXiv preprint arXiv:1509.00519 (2015).
+4. Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
+5. Grnarova, Paulina, et al. "A domain agnostic measure for monitoring and evaluating GANs." Advances in Neural Information Processing Systems. 2019.
+6. Dziugaite, G. K., Roy, D. M., and Ghahramani, Z. Training generative neural networks via maximum mean discrepancy optimization, 2015. arXiv:1505.0390
+7. Li, Y., Swersky, K., and Zemel, R. Generative moment matching networks. In Proceedings of the 32nd International Conference on Machine Learning, 2015
+8. Bengio, Y., Thibodeau-Laufer, E., and Yosinski, J. (2014a). Deep generative stochastic networks trainable by backprop. In ICML’14.
+9. Arora, Sanjeev, et al. "Generalization and equilibrium in generative adversarial nets (gans)." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.10. Nowozin, Sebastian, Botond Cseke, and Ryota Tomioka. "f-gan: Training generative neural samplers using variational divergence minimization." Advances in neural information processing systems. 2016.
+11. Arjovsky, Martin, Soumith Chintala, and Léon Bottou. "Wasserstein gan." arXiv preprint arXiv:1701.07875 (2017).
+12. Gulrajani, Ishaan, et al. "Improved training of wasserstein gans." Advances in neural information processing systems. 2017.
 
 ## Semi-supervised Learning
 
 ## Meta-Learning
-1. End-to-End Fast Training of Communication Links Without a Channel Model via Online Meta-Learning (https://arxiv.org/pdf/2003.01479)
-2. From Learning to Meta-Learning: Reduced Training Overhead and Complexity for Communication Systems
+1. Park, Sangwoo, Osvaldo Simeone, and Joonhyuk Kang. "End-to-End Fast Training of Communication Links Without a Channel Model via Online Meta-Learning." arXiv preprint arXiv:2003.01479 (2020).
+2. Simeone, Osvaldo, Sangwoo Park, and Joonhyuk Kang. "From Learning to Meta-Learning: Reduced Training Overhead and Complexity for Communication Systems." arXiv preprint arXiv:2001.01227 (2020).
 
 ## Multiagent and Federated Learning
-1. Federated Learning: Strategies for Improving Communication Efficiency (https://research.google/pubs/pub45648/)
-2. Decentralized Federated Learning via SGD over Wireless D2D Networks
-3. Cooperative Learning via Federated Distillation over Fading Channels
+1. Konečný, Jakub, et al. "Federated learning: Strategies for improving communication efficiency." arXiv preprint arXiv:1610.05492 (2016).
+2. Xing, Hong, Osvaldo Simeone, and Suzhi Bi. "Decentralized Federated Learning via SGD over Wireless D2D Networks." arXiv preprint arXiv:2002.12507 (2020).
+3. Ahn, Jin-Hyun, Osvaldo Simeone, and Joonhyuk Kang. "Cooperative Learning via Federated Distillation over Fading Channels." arXiv preprint arXiv:2002.01337 (2020).
 
 ## ML in Communication Systems
-1. Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning, (https://arxiv.org/pdf/2002.062150) 
-2. Deep multiuser reinforcement learning for distributed dynamic spectrum access
-3. Fast Q-learning for improved finite length performance of irregular repitition slotted ALOHA
+1. Naderializadeh, Navid, et al. "Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning." arXiv preprint arXiv:2002.06215 (2020).
+2. Naparstek, Oshri, and Kobi Cohen. "Deep multi-user reinforcement learning for distributed dynamic spectrum access." IEEE Transactions on Wireless Communications 18.1 (2018): 310-323.
+3. Nisioti, Eleni, and Nikolaos Thomos. "Fast Q-learning for Improved Finite Length Performance of Irregular Repetition Slotted ALOHA." IEEE Transactions on Cognitive Communications and Networking (2019).
 
