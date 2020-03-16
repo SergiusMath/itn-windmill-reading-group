@@ -15,6 +15,9 @@ tations (ICLR), 2017
 11. Bartlett, Peter L., Dylan J. Foster, and Matus J. Telgarsky. "Spectrally-normalized margin bounds for neural networks." Advances in Neural Information Processing Systems. 2017.
 12. Belkin, M., Ma, S., and Mandal, S. To understand deep learning we need to understand kernel learning. http://arxiv.org/abs/1802.01396, 2018.
 13. Daniely, A. SGD learns the conjugate kernel class of the network. http://arxiv.org/abs/1702.08503, 2017
+14. Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems. 2018.
+15. Amit, Ron, and Ron Meir. "Meta-learning by adjusting priors based on extended PAC-Bayes theory." https://arxiv.org/abs/1711.01244
+16. Tishby, Naftali, and Noga Zaslavsky. "Deep learning and the information bottleneck principle." 2015 IEEE Information Theory Workshop (ITW). IEEE, 2015.
 
 ## Supervised Learning
 
@@ -41,6 +44,7 @@ tations (ICLR), 2017
 1. Konečný, Jakub, et al. "Federated learning: Strategies for improving communication efficiency." http://arxiv.org/abs/1610.05492 (2016).
 2. Xing, Hong, Osvaldo Simeone, and Suzhi Bi. "Decentralized Federated Learning via SGD over Wireless D2D Networks." http://arxiv.org/abs/2002.12507 (2020).
 3. Ahn, Jin-Hyun, Osvaldo Simeone, and Joonhyuk Kang. "Cooperative Learning via Federated Distillation over Fading Channels." http://arxiv.org/abs/2002.01337 (2020).
+4. Zhao, Yue, et al. "Federated learning with non-iid data." arXiv preprint arXiv:1806.00582 (2018).https://arxiv.org/abs/1806.00582
 
 ## ML in Communication Systems
 1. Naderializadeh, Navid, et al. "Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning." http://arxiv.org/abs/2002.06215 (2020).
