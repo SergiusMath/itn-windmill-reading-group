@@ -56,6 +56,6 @@ tations (ICLR), 2017
 
 ## ML in Communication Systems
 1. Naderializadeh, Navid, et al. "Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning." http://arxiv.org/abs/2002.06215 (2020).
-1. Naparstek, Oshri, and Kobi Cohen. "Deep multi-user reinforcement learning for distributed dynamic spectrum access." IEEE Transactions on Wireless Communications 18.1 (2018): 310-323.
-1. Nisioti, Eleni, and Nikolaos Thomos. "Fast Q-learning for Improved Finite Length Performance of Irregular Repetition Slotted ALOHA." IEEE Transactions on Cognitive Communications and Networking (2019).
-
+2. Naparstek, Oshri, and Kobi Cohen. "Deep multi-user reinforcement learning for distributed dynamic spectrum access." IEEE Transactions on Wireless Communications 18.1 (2018): 310-323.
+3. Nisioti, Eleni, and Nikolaos Thomos. "Fast Q-learning for Improved Finite Length Performance of Irregular Repetition Slotted ALOHA." IEEE Transactions on Cognitive Communications and Networking (2019).
+4. Helin Yang et al., "Deep Reinforcement Learning Based Massive Access Management for Ultra-Reliable Low-Latency Communications." (http://arxiv.org/abs/2002.08743) (2020)
