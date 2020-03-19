@@ -2,7 +2,7 @@
 
 ## Statistical Machine Learning, DNN Theory, Convergence, and Optimization
 1. Arora, Sanjeev, et al. "Fine-grained analysis of optimization and generalization for overparameterized two-layer neural networks." http://arxiv.org/abs/1901.08584 (2019).
-2. Lee, Jaehoon, et al. "Deep neural networks as gaussian processes." http://arxiv.org/abs/1711.00165 (2017).
+2. Lee et. al. / Deep Neural Networks as Gaussian Processes / https://arxiv.org/abs/1711.00165v3
 3. Arora, Sanjeev, Nadav Cohen, and Elad Hazan. "On the optimization of deep networks: Implicit acceleration by overparameterization." http://arxiv.org/abs/1802.06509 (2018).
 4. Nagarajan, Vaishnavh, and J. Zico Kolter. "Uniform convergence may be unable to explain generalization in deep learning." Advances in Neural Information Processing Systems. 2019.
 5. Bartlett, Peter L., et al. "Nearly-tight VC-dimension and Pseudodimension Bounds for Piecewise Linear Neural Networks." Journal of Machine Learning Research 20.63 (2019): 1-17.
@@ -18,6 +18,10 @@ tations (ICLR), 2017
 14. Jacot, Arthur, Franck Gabriel, and Clément Hongler. "Neural tangent kernel: Convergence and generalization in neural networks." Advances in neural information processing systems. 2018.
 15. Amit, Ron, and Ron Meir. "Meta-learning by adjusting priors based on extended PAC-Bayes theory." https://arxiv.org/abs/1711.01244
 16. Tishby, Naftali, and Noga Zaslavsky. "Deep learning and the information bottleneck principle." 2015 IEEE Information Theory Workshop (ITW). IEEE, 2015.
+17. Fortunin et. al. / GP-VAE: Deep Probabilistic Time Series Imputation / https://arxiv.org/abs/1907.04155v5
+18. 
+
+
 
 ## Supervised Learning
 
