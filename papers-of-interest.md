@@ -19,7 +19,8 @@ tations (ICLR), 2017
 15. Amit, Ron, and Ron Meir. "Meta-learning by adjusting priors based on extended PAC-Bayes theory." https://arxiv.org/abs/1711.01244
 16. Tishby, Naftali, and Noga Zaslavsky. "Deep learning and the information bottleneck principle." 2015 IEEE Information Theory Workshop (ITW). IEEE, 2015.
 17. Fortunin et. al. / GP-VAE: Deep Probabilistic Time Series Imputation / https://arxiv.org/abs/1907.04155v5
-18. 
+18. Cutajar et. al. / Deep Gaussian Processes for Multi-fidelity Modeling / https://arxiv.org/abs/1903.07320v1
+
 
 
 
