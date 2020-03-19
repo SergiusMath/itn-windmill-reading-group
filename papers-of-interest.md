@@ -45,6 +45,8 @@ tations (ICLR), 2017
 2. Xing, Hong, Osvaldo Simeone, and Suzhi Bi. "Decentralized Federated Learning via SGD over Wireless D2D Networks." http://arxiv.org/abs/2002.12507 (2020).
 3. Ahn, Jin-Hyun, Osvaldo Simeone, and Joonhyuk Kang. "Cooperative Learning via Federated Distillation over Fading Channels." http://arxiv.org/abs/2002.01337 (2020).
 4. Zhao, Yue, et al. "Federated learning with non-iid data." arXiv preprint arXiv:1806.00582 (2018).https://arxiv.org/abs/1806.00582
+5. Nguyen, Huy, et al. "Resource Allocation in Mobility-Aware Federated Learning Networks: A Deep Reinforcement Learning Approach." https://arxiv.org/abs/1910.09172 (2019).
+6. Kairouz, Peter, et al. "Advances and Open Problems in Federated Learning." https://arxiv.org/abs/1912.04977 (2019).
 
 ## ML in Communication Systems
 1. Naderializadeh, Navid, et al. "Resource Management in Wireless Networks via Multi-Agent Deep Reinforcement Learning." http://arxiv.org/abs/2002.06215 (2020).
