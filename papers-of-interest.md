@@ -7,7 +7,7 @@
 1. Nagarajan, Vaishnavh, and J. Zico Kolter. "Uniform convergence may be unable to explain generalization in deep learning." Advances in Neural Information Processing Systems. 2019.
 1. Bartlett, Peter L., et al. "Nearly-tight VC-dimension and Pseudodimension Bounds for Piecewise Linear Neural Networks." Journal of Machine Learning Research 20.63 (2019): 1-17.
 1. Du, Simon S., et al. "Gradient descent finds global minima of deep neural networks." http://arxiv.org/abs/1811.03804 (2018).
-1. Du, S. S., Zhai, X., Poczos, B., and Singh, A. "Gradient descent provably optimizes over-parameterized neural networks." arXiv preprint arXiv:1810.02054, (2018).
+1. Du, S. S., Zhai, X., Poczos, B., and Singh, A. "Gradient descent provably optimizes over-parameterized neural networks." http://arxiv.org/abs/1810.02054, (2018).
 1. Neyshabur, B., Li, Z., Bhojanapalli, S., LeCun, Y., andSrebro, N. The role of over-parametrization in generalization of neural networks. In International Conference on Learning Representations (ICLR), 2019.
 1. Zhang, C., Bengio, S., Hardt, M., Recht, B., and Vinyals, O. Understanding deep learning requires rethinking generalization. International Conference on Learning Represen
 tations (ICLR), 2017
