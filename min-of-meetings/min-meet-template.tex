@@ -1,11 +1,10 @@
 \documentclass[10pt,a4paper,twoside]{mins}
-\usepackage{enumitem}
-\usepackage{booktabs}
 
 % Leave this line unchanged !!!
 \setcommittee{ITN WIndMill - Reading group}
 
-% In order to first names, e.g. Albert, Chris, David, Shawn ...
+% List people according to first letters of their names
+% e.g. A_lbert, C_hris, D_avid, S_hawn ...
 \setmembers{
 	\role{Jhon Doe}{ESR 1},
 	\role{Jhon Doe}{ESR 2},
@@ -17,15 +16,18 @@
 
 % If no-one is absent, leave blank, and it will be dropped
 \absent{
-    \role{Jhon Doe}{ESR 111},
-    \role{Jhon Doe}{ESR 222}
+    \role{Jhon Doe}{ESR 4},
+    \role{Jhon Doe}{ESR 5}
 }                   
 
 % If there are no guests, leave blank and it will be dropped
 \alsopresent{
-    EU Commissioner
-    PhD supervisor 135
+    EU Commissioner,
+    PhD supervisor
     } 
+
+% Set data of the next meeting
+\nextdate{mm.dd.yyyy}
 
 \begin{document}
 
@@ -66,9 +68,5 @@
     \end{notes}
 
 \end{minutes}
-
-\bigskip
-\bigskip
-\nextmeeting{ mm.dd.yyyy | HH:mm }
 
 \end{document}

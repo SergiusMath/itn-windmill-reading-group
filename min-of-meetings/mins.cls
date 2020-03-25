@@ -76,6 +76,12 @@
 \newcommand{\setdate}[1]{\def\@date{#1}}
 \newcommand{\show@date}{\@date}
 
+% when is next meeting?
+\global\let\@nextdate\@empty 
+\newcommand{\nextdate}[1]{\def\@nextdate{#1}} 
+\let\nextdate\nextdate % 
+\newcommand{\show@nextdate}{\@nextdate}
+
 % what role do they have (e.g., chair)
 \newcommand{\role}[2]{#1~(#2)}
 \newcommand{\chair}[1]{\role{#1}{Chair}}
@@ -89,7 +95,7 @@
 \RequirePackage{enumitem}
 \newenvironment{noteslist}[1]{% 
 	%\renewcommand\theenumi{\alph{\enumi}} 
-	\vspace{2ex}\par\noindent\textbf{#1}\par 
+	\vspace{0ex}\par\noindent\textbf{#1}\par 
 	\begin{enumerate}[label=\arabic*.]
 		}{% 
 	\end{enumerate} 
@@ -121,23 +127,37 @@
 % material heading the minutes; final version
 \newcommand{\opening@list}{
 	\begin{description}
-		\item[Readers:] \show@members
-		\ifx\@apologies\@empty
-			\relax 
-		\else
-			\item[Apologies:] \show@apologies 
-		\fi % 		
+		\item[Readers:]
+		\show@members
+		
+		% \ifx\@apologies\@empty
+		% 	\relax 
+		% \else
+		% 	\item[Apologies:] \show@apologies 
+		% \fi
+
  		\ifx\@absent\@empty
 			\relax 
 		\else
 			\item[Absent:] \show@absent 
-		\fi %
-  		\ifx\@alsopresent\@empty
-    			\relax
+		\fi
+		
+		\ifx\@alsopresent\@empty
+		  	\relax
   		\else
-    			\item[Guests:] \show@alsopresent
-		\fi % 
+    		\item[Guests:] \show@alsopresent
+		\fi
+		
+		\ifx\@nextdate\@empty
+		  	\relax
+  		\else
+    		\item[Next Meeting:] \show@nextdate
+		\fi
+
 	\end{description} 
 }
 
 \newcommand{\nextmeeting}[1]{\textbf{Next Meeting:} #1}
+
+\usepackage{enumitem}
+\usepackage{booktabs}
