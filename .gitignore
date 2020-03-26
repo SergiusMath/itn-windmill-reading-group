@@ -277,3 +277,5 @@ TSWLatexianTemp*
 
 # macOS files
 *.DS_Store
+
+tmp-folder/
