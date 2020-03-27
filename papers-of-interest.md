@@ -59,3 +59,4 @@ tations (ICLR), 2017
 2. Naparstek, Oshri, and Kobi Cohen. "Deep multi-user reinforcement learning for distributed dynamic spectrum access." IEEE Transactions on Wireless Communications 18.1 (2018): 310-323.
 3. Nisioti, Eleni, and Nikolaos Thomos. "Fast Q-learning for Improved Finite Length Performance of Irregular Repetition Slotted ALOHA." IEEE Transactions on Cognitive Communications and Networking (2019).
 4. Helin Yang et al., "Deep Reinforcement Learning Based Massive Access Management for Ultra-Reliable Low-Latency Communications." (http://arxiv.org/abs/2002.08743) (2020)
+5. Jagannath, J., Polosky, N., Jagannath, A., Restuccia, F. and Melodia, T., 2019. Machine learning for wireless communications in the Internet of Things: A comprehensive survey. Ad Hoc Networks, 93, p.101913.
