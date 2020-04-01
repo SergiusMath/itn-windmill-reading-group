@@ -39,7 +39,8 @@ tations (ICLR), 2017
 1. Arora, Sanjeev, et al. "Generalization and equilibrium in generative adversarial nets (gans)." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.10. Nowozin, Sebastian, Botond Cseke, and Ryota Tomioka. "f-gan: Training generative neural samplers using variational divergence minimization." Advances in neural information processing systems. 2016.
 1. Arjovsky, Martin, Soumith Chintala, and Léon Bottou. "Wasserstein gan." http://arxiv.org/abs/1701.07875 (2017).
 1. Gulrajani, Ishaan, et al. "Improved training of wasserstein gans." Advances in neural information processing systems. 2017.
-1. Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon HjelmMINE: "Mutual Information Neural Estimation" https://arxiv.org/abs/1801.04062
+1. Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm MINE: "Mutual Information Neural Estimation" https://arxiv.org/abs/1801.04062
+1. Rick Fritschek, Rafael F. Schaefer, Gerhard Wunder "Deep Learning for Channel Coding via Neural Mutual Information Estimation" https://arxiv.org/abs/1903.02865
 
 
 ## Semi-supervised Learning
