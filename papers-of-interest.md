@@ -41,6 +41,7 @@ tations (ICLR), 2017
 1. Gulrajani, Ishaan, et al. "Improved training of wasserstein gans." Advances in neural information processing systems. 2017.
 1. Mohamed Ishmael Belghazi, Aristide Baratin, Sai Rajeswar, Sherjil Ozair, Yoshua Bengio, Aaron Courville, R Devon Hjelm MINE: "Mutual Information Neural Estimation" https://arxiv.org/abs/1801.04062
 1. Rick Fritschek, Rafael F. Schaefer, Gerhard Wunder "Deep Learning for Channel Coding via Neural Mutual Information Estimation" https://arxiv.org/abs/1903.02865
+1. Chloe Ching-Yun Hsu et. al. / Linear Dynamics: Clustering without identification / https://arxiv.org/abs/1908.01039v3
 
 
 ## Semi-supervised Learning
