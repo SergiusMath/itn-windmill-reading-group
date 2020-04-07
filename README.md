@@ -4,14 +4,6 @@ https://windmill-itn.eu/
 ## Events:
 Updated: 08.04.2020
 
-Colons can be used to align columns.
-
-| Date        | Are           | Cool  |
-|:-------------:|:-------------:|:-----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 | Date	        | Presenter	    | Topic	              | Reading	              | Supplement       | 
 |:----------:|:----------------:|:-------------------:|:---------------------:|:----------------:|
 | 26.03.2020 | Anay Deshpande.  | Resource Management in Wireless Networks via Multi-Agent Deep RL| https://arxiv.org/abs/2002.06215v1 |
