@@ -21,9 +21,8 @@ tations (ICLR), 2017
 1. Tishby, Naftali, and Noga Zaslavsky. "Deep learning and the information bottleneck principle." 2015 IEEE Information Theory Workshop (ITW). IEEE, 2015.
 1. Fortunin et. al. / GP-VAE: Deep Probabilistic Time Series Imputation / https://arxiv.org/abs/1907.04155v5
 1. Cutajar et. al. / Deep Gaussian Processes for Multi-fidelity Modeling / https://arxiv.org/abs/1903.07320v1
-
-
-
+1. Zhou, Wenda, et al. "Non-vacuous generalization bounds at the imagenet scale: a PAC-bayesian compression approach." arXiv preprint arXiv:1804.05862 (2018).  / https://arxiv.org/abs/1804.05862
+1. Raveh, Or, and Ron Meir. "PAC Guarantees for Cooperative Multi-Agent Reinforcement Learning with Restricted Communication." Proceedings of Machine Learning Research 99 (2020): 1-42. https://pdfs.semanticscholar.org/6a1b/f08a205df998d01751905ed476cb1e1a5071.pdf
 
 ## Supervised Learning
 
