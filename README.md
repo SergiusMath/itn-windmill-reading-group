@@ -2,7 +2,7 @@
 https://windmill-itn.eu/
 
 ## Events:
-Updated: 25.04.2020
+Updated: 30.04.2020
 
 | Date	     | Presenter    | Topic	                 | Reading	    | Supplement | 
 |:-----------|:-------------|:-----------------------|:-------------|:-----------|
