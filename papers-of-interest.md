@@ -66,3 +66,4 @@ tations (ICLR), 2017
 4. Helin Yang et al., "Deep Reinforcement Learning Based Massive Access Management for Ultra-Reliable Low-Latency Communications." (http://arxiv.org/abs/2002.08743) (2020)
 5. Jagannath, J., Polosky, N., Jagannath, A., Restuccia, F. and Melodia, T., 2019. Machine learning for wireless communications in the Internet of Things: A comprehensive survey. Ad Hoc Networks, 93, p.101913.
 6. AL-Tam, F., N. Correia, and J. Rodriguez. "Learn to Schedule (LEASCH): A Deep reinforcement learning approach for radio resource scheduling in the 5G MAC layer." arXiv preprint arXiv:2003.11003 (2020).https://arxiv.org/pdf/2003.11003.pdf
+7. Chinchali, Sandeep, et al. "Cellular network traffic scheduling with deep reinforcement learning." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.  [download here](https://stanfordasl.github.io/wp-content/papercite-data/pdf/Chinchali.ea.AAAI18.pdf)
